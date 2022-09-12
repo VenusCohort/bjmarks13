@@ -4,7 +4,6 @@ html {
 	animation-name: wall;
 	animation-duration: 5s;
 	animation-iteration-count: infinite;
-	backgorund-color: yellow;
 }
 div{
 	align-self: auto;
@@ -40,6 +39,6 @@ div:after{
 }
 @keyframes wall {
 	0% {background-color: black;}
-	50% {background-color: white;}
+	50% {background-color: yellow;}
 	100% {background-color: black;}
 }
