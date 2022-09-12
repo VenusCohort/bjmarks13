@@ -4,6 +4,7 @@ html {
 	animation-name: wall;
 	animation-duration: 5s;
 	animation-iteration-count: infinite;
+	backgorund-color: yellow;
 }
 div{
 	align-self: auto;
